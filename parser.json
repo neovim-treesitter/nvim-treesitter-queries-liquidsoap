@@ -1,6 +1,6 @@
 {
+  "lang": "liquidsoap",
   "url": "https://github.com/savonet/tree-sitter-liquidsoap",
   "semver": false,
-  "lang": "liquidsoap",
   "parser_version": "0169d92b0a93e9f32289533ef23abdafca579e56"
 }
